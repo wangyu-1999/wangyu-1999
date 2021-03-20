@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wang Yu</h1>
+
 - 👀 I’m interested in JavaScript/CSS/HTML
 - 🌱 I’m currently learning Vue
 - 📝 I regulary write articles on [blog](https://wangyu-1999.github.io/) 
