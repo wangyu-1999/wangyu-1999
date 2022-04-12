@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wang Yu</h1>
 
 - 👀 I’m interested in JavaScript / CSS / HTML
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning ProseMirror
 - 📝 I regulary write articles on [blog](https://wangyu-1999.github.io/) 
 - 📫 How to reach me [wangyu2021@foxmail.com](#)
 - 🔧 Have studied Vue / React
